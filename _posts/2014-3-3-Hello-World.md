@@ -1,13 +1,9 @@
 ---
 layout: post
-title: t
+title: t-rex
 ---
 
-Markdown link behavior shown below?
+Markdown link behavior
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-And another type:
-
-[Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+And another type
 
