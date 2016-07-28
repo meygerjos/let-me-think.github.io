@@ -3,7 +3,6 @@ layout: post
 title: t-rex
 ---
 
-Markdown link behavior
+dinosaur.
 
-And another type
-
+dinosuar.
