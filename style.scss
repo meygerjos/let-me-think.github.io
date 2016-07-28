@@ -178,6 +178,7 @@ nav {
 
 .posts > .post {
   border-bottom: 1px solid $lightGray;
+  padding-bottom: 1em;
 }
 
 .posts > .post:last-child {
@@ -204,12 +205,12 @@ nav {
   }
 }
 
-.wrapper-footer {
+/*.wrapper-footer {
   margin-top: 5px;
   border-top: 5px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
-}
+}*/
 
 footer {
   padding: 2px 0;
