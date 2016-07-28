@@ -8,13 +8,15 @@ layout: default
 
       <h3>{{ post.title }}</h3>
 
+        <div class="date">
+    	{{post.author}}&nbsp;&nbsp; {{ post.date | date: "%B %e, %Y" }}
+  	   </div>
+  	   
       <div class="entry">
         {{ post.content }}
       </div>
 
-        <div class="date">
-    	{{post.author}}&nbsp;&nbsp; {{ post.date | date: "%B %e, %Y" }}
-  	   </div>
+
     </article>
   {% endfor %}
 </div>
