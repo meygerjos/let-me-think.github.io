@@ -55,13 +55,16 @@ h4 {
 }
 
 
+a{
+  text-decoration: none;
+}
 a:link{
   text-decoration: none;
-  color: blue
+  color: $blue;
 }
 
 a:visited{
-  color: blue
+  color: $blue;
 }
 
 a:hover{
