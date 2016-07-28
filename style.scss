@@ -23,8 +23,44 @@ html {
   /*color: $darkGray;*/
 /*}*/
 
+.container {
+  margin: 0 auto;
+  padding: 0 5px;
+  width: 100%;
+}
 
-line-height : 1.5
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+
+  line-height: 1.3;
+  margin: 1em 0 5px;
+  padding: 0;
+
+}
+
+h1 {
+  font-size: 30px;
+  a {
+    color: inherit;
+  }
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+p {
+  line-height: 1
+  }
 
 a {
   color: $blue;
