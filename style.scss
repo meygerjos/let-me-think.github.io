@@ -59,14 +59,14 @@ h4 {
 }
 
 
-/*a {
+a {
   color: $blue;
-  text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
+    text-decoration: underline;
     color: $blue;
   }
-}*/
+}
 
 ul, ol {
   margin: 15px 0;
