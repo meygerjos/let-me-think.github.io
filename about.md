@@ -7,7 +7,7 @@ permalink: /about/
 This web log is intended to be a serious record of economic and technical practices that individuals can use to promote free scholarship and critical inquiry in their present
  or future communities.
 
-Contributions should generally describe specific techniques. However, non-technical didcatic, explanatory, or literary contributions may also be appropriate.
+Contributions should generally describe specific techniques. However, non-technical didactic, explanatory, or literary contributions may also be appropriate.
 
 Any contributor may ask another to move or remove portions of their articles on the grounds that they lie outside the focus of this log or detract from its purpose, but they should not do so on the grounds of merely personal irritation. Authors asked to remove content should probably comply.
 
