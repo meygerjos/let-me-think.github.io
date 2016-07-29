@@ -19,7 +19,7 @@ html {
 
 body {
 	/*background: $white;*/
-  font: 20px
+  font: 22px
   /*color: $darkGray;*/
 }
 
@@ -156,14 +156,14 @@ img {
 
 .site-name {
   margin: 0;
-  font-size: 26px;
+  font-size: 30px;
   /*letter-spacing: 1px;*/
 }
 
 nav {
   float: right;
   /*margin-top: 10px; // @TODO: Vertically middle align*/
-  font-size: 20px;
+  font-size: 18px;
   //width: 200px;
   
   @include mobile {
@@ -179,6 +179,7 @@ nav {
 //
 
 .posts > .post {
+  font-size: 18px;
   border-bottom: 1px dotted $gray;
   padding-bottom: 1em;
 }
@@ -188,6 +189,7 @@ nav {
 }
 
 .post {
+  font-size: 18px;
   //margin-right: 200px;
   blockquote {
     margin: 1.8em .8em;
