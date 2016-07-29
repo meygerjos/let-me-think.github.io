@@ -25,8 +25,8 @@ body {
 
 .container {
   margin: 0 auto;
-  padding: 0 15px;
-  width: 100%;
+  padding: 0 5px;
+  width: 80%;
 }
 
 
@@ -163,10 +163,11 @@ nav {
   float: right;
   margin-top: 10px; // @TODO: Vertically middle align
   font-size: 18px;
-
+  width: 150px
+  
   @include mobile {
     float: none;
-    margin-top: 10px;
+    margin-right: 10px;
     display: block;
     font-size: 16px;
   }
@@ -177,16 +178,17 @@ nav {
 //
 
 .posts > .post {
-  border-bottom: 1px solid $gray;
+  border-bottom: 1px dotted $gray;
   padding-bottom: 1em;
 }
 
 .posts > .post:last-child {
   padding-bottom: 1em;
-  border-bottom: none;
 }
 
 .post {
+  margin-right: 150px;
+  margin-left: 25px;
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
