@@ -19,7 +19,7 @@ html {
 
 body {
 	/*background: $white;*/
-  font: 16px
+  font: 18px
   /*color: $darkGray;*/
 }
 
@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 22px;
+  font-size: 24px;
 }
 
 h2 {
@@ -204,6 +204,10 @@ nav {
   .read-more {
     text-transform: uppercase;
   }
+}
+
+.page {
+  margin-right: 200px;
 }
 
 /*.wrapper-footer {
