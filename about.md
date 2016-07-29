@@ -14,7 +14,7 @@ s ethical principles is at least as important as the formation of the principles
 Any contributor may ask another to move or remove portions of their articles on the grounds that they lie outside the focus of this log or detract from its purpose, but they 
 should not do so for reasons of merely personal irritation. Any author so asked should probably comply.
 
-%nbsp;
+&nbsp;
 
 To post here:
 
