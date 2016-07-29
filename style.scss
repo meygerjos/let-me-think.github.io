@@ -19,7 +19,7 @@ html {
 
 body {
 	/*background: $white;*/
-  font: 18px
+  font: 20px
   /*color: $darkGray;*/
 }
 
@@ -40,19 +40,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 28px;
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 24px;
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 22px;
 }
 
 h4 {
-  font-size: 16px;
+  font-size: 20px;
 }
 
 
@@ -156,14 +156,14 @@ img {
 
 .site-name {
   margin: 0;
-  font-size: 22px;
+  font-size: 26px;
   /*letter-spacing: 1px;*/
 }
 
 nav {
   float: right;
   /*margin-top: 10px; // @TODO: Vertically middle align*/
-  font-size: 18px;
+  font-size: 20px;
   //width: 200px;
   
   @include mobile {
