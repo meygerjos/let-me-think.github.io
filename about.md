@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
 ---
 
@@ -13,7 +13,7 @@ Any contributor may ask another to move or remove portions of their articles on 
 
 &nbsp;
 
-### To post here:
+#### To post here:
 
  1. Get a GitHub account.
  2. Ask the [site administrator](http://github.com/jimmymathews) for write access to the [organization repository](http://github.com/let-me-think/let-me-think.github.io).
