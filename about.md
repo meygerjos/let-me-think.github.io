@@ -7,12 +7,9 @@ permalink: /about/
 This web log is intended to be a serious record of economic and technical practices that individuals can use to promote free scholarship and critical inquiry in their present
  or future communities.
 
-Contributions should generally describe specific techniques. On the other hand, the establishment of physical and psychological environments conducive to the practice of one'
-s ethical principles is at least as important as the formation of the principles themselves (as pointed out by thinkers like [Jane Bennett](http://press.princeton.edu/titles/
-7208.html)). For this reason, non-technical explanatory, didactic, or literary contributions themselves promoting free scholarship and critical inquiry are also welcome.
+Contributions should generally describe specific techniques. However, non-technical didcatic, explanatory, or literary contributions may also be appropriate.
 
-Any contributor may ask another to move or remove portions of their articles on the grounds that they lie outside the focus of this log or detract from its purpose, but they 
-should not do so for reasons of merely personal irritation. Any author so asked should probably comply.
+Any contributor may ask another to move or remove portions of their articles on the grounds that they lie outside the focus of this log or detract from its purpose, but they should not do so on the grounds of merely personal irritation. Authors asked to remove content should probably comply.
 
 &nbsp;
 
