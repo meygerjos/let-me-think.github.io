@@ -1,2 +1,2 @@
 
-[The web log](let-me-think.github.io)
+[The web log](http://let-me-think.github.io)
