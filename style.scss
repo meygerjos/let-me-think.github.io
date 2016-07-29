@@ -25,8 +25,8 @@ body {
 
 .container {
   margin: 0 auto;
-  padding: 0 5px;
-  width: 80%;
+  padding: 0 0px;
+  width: 90%;
 }
 
 
@@ -161,9 +161,9 @@ img {
 
 nav {
   float: right;
-  margin-top: 10px; // @TODO: Vertically middle align
+  /*margin-top: 10px; // @TODO: Vertically middle align*/
   font-size: 18px;
-  width: 150px;
+  width: 200px;
   
   @include mobile {
     float: none;
@@ -187,8 +187,7 @@ nav {
 }
 
 .post {
-  margin-right: 150px;
-  margin-left: 25px;
+  margin-right: 200px;
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
