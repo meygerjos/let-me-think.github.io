@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: About
 permalink: /about/
 ---
 
@@ -16,7 +16,7 @@ should not do so for reasons of merely personal irritation. Any author so asked 
 
 &nbsp;
 
-To post here:
+## To post here:
 
  1. Get a GitHub account.
  2. Ask the [site administrator](http://github.com/jimmymathews) for write access to the [organization repository](http://github.com/let-me-think/let-me-think.github.io).
