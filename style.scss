@@ -163,7 +163,7 @@ nav {
   float: right;
   margin-top: 10px; // @TODO: Vertically middle align
   font-size: 18px;
-  width: 150px
+  width: 150px;
   
   @include mobile {
     float: none;
