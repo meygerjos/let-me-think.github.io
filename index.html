@@ -50,11 +50,11 @@ layout: default
   <form id="commentform" method="POST" action="{{site.url}}/commentsubmit.php">
     <input type="hidden" name="post_id" value="{{post.id}}" />
     <input type="hidden" name="return_url" value="{{site.url}}{{post.url}}" />
-    <table>
+    <table cellpadding="5">
 
       <tr>
         <td> comment </td>
-        <td colspan="2"><textarea name="comment" rows="1" cols="50" ></textarea></td>
+        <td> <input type="text" size="11" name="comment" /> </td>
         <td> name </td>
         <td> <input type="text" size="11" name="name" /> </td>
         <td> email </td>
