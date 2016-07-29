@@ -47,23 +47,25 @@ layout: default
     </div>
   {% endfor %}
   
-  <h3>Comment</h3>
-
   <form id="commentform" method="POST" action="{{site.url}}/commentsubmit.php">
     <input type="hidden" name="post_id" value="{{post.id}}" />
     <input type="hidden" name="return_url" value="{{site.url}}{{post.url}}" />
     <table>
+
+      <tr>
+        <td colspan="2"><textarea name="comment" rows="2" cols="50" ></textarea></td>
+      </tr>
+
       <tr>
         <th>name</th>
-        <td><input type="text" size="25" name="name" /> </td>
+        <td><input type="text" size="16" name="name" /> </td>
       </tr>
+      
       <tr>
         <th>email</th>
-        <td><input type="text" size="25" name="email" /> (not published)</td>
+        <td><input type="text" size="16" name="email" /> (not published)</td>
       </tr>
-      <tr>
-        <td colspan="2"><textarea name="comment" rows="10" cols="60" ></textarea></td>
-      </tr>
+
       <tr>
         <td><input type="submit" name="submit" value="submit comment" /></td>
       </tr>
