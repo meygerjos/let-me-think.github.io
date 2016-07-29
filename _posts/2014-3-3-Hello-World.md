@@ -1,9 +1,7 @@
 ---
 layout: post
-title: t-rex
-author: da t-rex
+title: post title
+author: post author
 ---
 
-dinosaur.
-
-dinosuar.
+post contents
