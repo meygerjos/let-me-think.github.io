@@ -1,7 +1,7 @@
 ---
 layout: post
-title: post title
-author: post author
+title: test
+author: Jimmy Mathews
 ---
 
-post contents
+contents
