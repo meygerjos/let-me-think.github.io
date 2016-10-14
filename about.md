@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: the web log of the secular monastery project
 permalink: /about/
 ---
 
