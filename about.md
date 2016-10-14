@@ -1,10 +1,10 @@
 ---
 layout: page
-title: the web log of the secular monastery project
+title: The web log of the secular monastery project
 permalink: /about/
 ---
 
-This web log is intended to be a serious record of economic and technical practices that individuals can use to promote free scholarship and critical inquiry in their present or future communities.
+This is intended to be a serious record of economic and technical practices that individuals can use to promote free scholarship and critical inquiry in their present or future communities.
 
 We hope that first-time contributors will propose their own detailed, pragmatic models for an actual community designed to promote these activities, addressing, if appropriate:
 
