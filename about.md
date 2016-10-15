@@ -9,13 +9,14 @@ This is intended to be a serious record of economic and technical practices that
 We hope that first-time contributors will propose their own detailed, pragmatic models for an actual community designed to promote these activities, addressing, if appropriate:
 
   - location
-  - duration
-  - scale and scope
+  - duration; seasonality
+  - facilities, routine
+  - scale, scope
   - relation to technologies
   - funding
   - membership
   - legal structure
-  - comparison with existing institutions (e.g. "the academy")
+  - comparison with existing institutions
 
 Debate concerning the basic merits of the secular monastery project is discouraged: The opposition already amply pervades ordinary life, while general support of the concept is assumed and is therefore not considered a valuable contribution. 
 
