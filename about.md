@@ -6,11 +6,11 @@ permalink: /about/
 
 This is intended to be a serious record of economic and technical practices that individuals can use to promote free scholarship and critical inquiry in their present or future communities.
 
-We hope that first-time contributors will propose their own detailed, pragmatic models for an actual community designed to promote these activities, addressing, if appropriate:
+It is hoped that first-time contributors will propose their own detailed, pragmatic models for an actual community designed to promote these activities, addressing, if appropriate:
 
-  - location
+  - location, facilities
   - duration; seasonality
-  - facilities, routine
+  - routine
   - scale, scope
   - relation to technologies
   - funding
@@ -18,9 +18,9 @@ We hope that first-time contributors will propose their own detailed, pragmatic 
   - legal structure
   - comparison with existing institutions
 
-Debate concerning the basic merits of the secular monastery project is discouraged: The opposition already amply pervades ordinary life, while general support of the concept is assumed and is therefore not considered a valuable contribution. 
+Non-novel debate concerning the basic merits of the secular monastery project is somewhat discouraged: The opposition already amply pervades ordinary life, while general support of the concept is assumed and therefore not considered a valuable contribution.
 
-However, debate on the merits of specific proposals is strongly encouraged. 
+Debate on the merits of specific proposals is strongly encouraged.
 
 &nbsp;
 
