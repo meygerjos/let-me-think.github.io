@@ -20,7 +20,7 @@ It is hoped that first-time contributors will propose their own detailed, pragma
 
 Non-novel debate concerning the basic merits of the secular monastery project is somewhat discouraged: The opposition already amply pervades ordinary life, while general support of the concept is assumed and therefore not considered a valuable contribution.
 
-Debate on the merits of specific proposals is strongly encouraged.
+Debate on the merits of specific proposals is strongly encouraged!
 
 &nbsp;
 
