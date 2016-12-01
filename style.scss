@@ -83,6 +83,9 @@ a:hover{
   }
 }*/
 
+p {
+margin: 0.5em;
+}
 
 ul, ol {
   margin: 5px 0;
@@ -98,7 +101,7 @@ ol {
 }
 
 ol ul, ul ol, ul ul, ol ol {
-  margin: 0;
+  padding-left: 10px;
 }
 
 ul ul, ol ul {
