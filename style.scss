@@ -184,8 +184,10 @@ nav {
 
 .posts > .post {
   font-size: 18px;
-  border-bottom: 4px solid $black;
+  border-top: 2px solid $black;
+  border-bottom: 2px solid $black;
   padding-bottom: 1em;
+  margin-bottom: 1em;
 }
 
 .posts > .post:last-child {
